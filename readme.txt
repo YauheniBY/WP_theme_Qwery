@@ -1,3 +1,4 @@
+do qwery folder qwery (db the same name) and add to plugins WP folder plugin from https://github.com/YauheniBY/WP_qweri-core-plugin.git/ It is required for correct work of theme/
 === qwery ===
 
 Contributors: automattic
